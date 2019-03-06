@@ -1,0 +1,16 @@
+<% include partials/header %>
+<<link href="/privacy.css" rel="stylesheet">
+
+<h1>PRIVACY POLICY</h1>
+          
+        <li class="one"> Your privacy is important to us. It is our policy to respect your privacy regarding any information you me collect across our websites and other website own operate. We're collecting it and how it will used.</li>
+
+        <li class="one"> We only retain collected information for long as necessary  to provide  you with your request service. What data we store, We'll protect within commercialy acceptable means to privant and loss and thift, as well as unauthorised data access,disclosur, copying use and modification.</li>
+        <li class="one">We don't share any personally information publicly or with third parties, accept when to required to by law.</li>
+        <li class="one">Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.</li>
+        <li class="one"> You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.</li>
+        <li class="one">Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information.</li>
+            
+    </body>
+
+<% include partials/footer %>

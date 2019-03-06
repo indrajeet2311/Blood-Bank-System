@@ -1,0 +1,36 @@
+<% include partials/header %>
+<link href="/about.css" rel="stylesheet">
+  <div class="container">
+        <h1>A Glimpse About Us</h1>
+        <div class="left-side">
+            <p id="top_para" class="one">
+            Indian Blood Bank Society is a noble charity organization formed with the active initiation and guidance of Lt. Col. (Hon.) Dr. Mohanlal, under Act For Humanity.</p><p class="one">Act For Humanity is a Non-profit organization founded by Mr. Esahaque Eswaramangalam and a group of young social workers during 2004, with Lt. Col. (Hon.) Dr. Mohanlal as its goodwill ambassador, aiming to fight against terrorism and fanatic activities.
+            </p>   
+        <p class="one">Indian Blood Bank is aimed at promoting the awareness of blood donation among the public. It is committed to stay ahead of all linguistic-rational-religious-political differences and shall be fully focusing its objectives in health care activities, with technology support from WebCastle Media Pvt. Ltd., Cochin.</p>
+        
+        <p class="one">ndian Blood Bank Society is registered as per The TCLSCS Registration Act XII of 1955 under the Government of Kerala. Initial operation of Indian Blood Bank shall be limited to Kerala and in the coming years its services shall be available all over India.</p>
+        </div>
+        <div class="right-side">
+            <video class="blood_video" controls>
+  <source src="Blood Donation Awareness Video - Your Decision Can Save a Life.mp4" type="video/mp4">
+
+  
+
+Your browser does not support the video tag.
+</video>
+        
+        </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<% include partials/footer %>

@@ -1,0 +1,88 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #efefef;
+    font-size: 16px;
+    color: black;
+    font-family:sans-serif;
+    font-weight: 400;
+    text-align: center;
+    background-position: center;
+    vertical-align: middle;
+    background-image: url(bg1.jpg);
+    background-size: cover;
+}
+.left-box
+{
+    position: absolute;
+    top: 55;
+    left: 500;
+    box-sizing: border-box;
+    padding: 80px;
+    width: 400px;
+    height: 550px;
+    background-image: url(background3.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+h1
+{
+    margin: 0 0 20px 0;
+    font-weight: 300;
+    font-size: 28px;
+}
+input[type="text"],
+input[type="password"],
+input[type="mobile number"]
+{
+    border-radius: 20px;
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 5px;
+    width: 220px;
+    height: 32px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #aaa;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    transition: 0.2s ease;
+  text-align: center;
+}
+input[type="submit"]
+{
+    left: auto;
+    border-radius: 2px;
+ 
+    margin-bottom: 30px;
+    width: 120px;
+    height: 32px;
+    background: #f44336;
+    border: none;
+  
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: 0.2s ease;
+    cursor: pointer;
+    
+}
+
+input[type="submit"]:hover,
+input[type="submit"]:focus
+{
+    background: #ff5722;
+    transition: 0.2s ease;
+}
+
+
+
+
+
+

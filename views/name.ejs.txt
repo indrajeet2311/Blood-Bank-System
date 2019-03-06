@@ -1,0 +1,80 @@
+<% include partials/header %>
+  <link href="/bmi.css" rel="stylesheet">
+<div id="header"></div>
+
+   <h1>Body Mass Index</h1>
+        <div>
+        <p class="one">
+            The body mass index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual. The BMI is defined as the body mass divided by the square of the body height, and is universally expressed in units of kg/(m*m), resulting from mass in kilograms and height in metres.<br>
+            The BMI is an attempt to quantify the amount of tissue mass (muscle, fat, and bone) in an individual, and then categorize that person as underweight, normal weight, overweight, or obese based on that value. That categorization is the subject of some debate about where on the BMI scale the dividing lines between categories should be placed.The formula for calculating the BMI is:<br>
+            <br>
+            <strong>BMI = weight ÷ (height*height)</strong><br>
+            (weight = kg, height = metres)
+            </p>    
+        
+        </div>
+    
+        
+        <div class="table-responsive">
+        <table id="table1">
+            <tr>
+            <th>BMI</th>
+            <th>Weight Status</th>
+            </tr>
+            
+            <tr>
+            <td>Below 18.5</td>
+            <td id="Underweight">Underweight</td>
+            </tr>
+            
+            <tr>
+            <td>18.5-24.9</td>
+            <td id="Healthy">Healthy</td> 
+            </tr>
+            
+            <tr>
+            <td>25.0-29.9</td>
+            <td id="Overweight">Overweight</td> 
+            </tr>
+            
+            <tr>
+            <td>30.0 and above</td>
+            <td id="Obese">Obese</td> 
+            </tr>
+            
+            </table>
+
+        </div>
+        <br>
+        
+            <div id="Underweight">
+            <p id="margins">
+            <strong>BMI of less than 18.5<br></strong>
+A BMI of less than 18.5 indicates that you are underweight, so you may need to put on some weight. You are recommended to ask your doctor or a dietitian for advice. 
+            </p>
+            </div>
+        
+            <div id="Healthy">
+            <p class="one">
+                
+               <strong>BMI of 18.5-24.9<br></strong> 
+A BMI of 18.5-24.9 indicates that you are at a healthy weight for your height. By maintaining a healthy weight, you lower your risk of developing serious health problems.
+        </p>
+        </div>
+        
+        <div id="Overweight">
+        <p class="one">
+<strong>BMI of 25-29.9<br></strong>
+A BMI of 25-29.9 indicates that you are slightly overweight. You may be advised to lose some weight for health reasons. You are recommended to talk to your doctor or a dietitian for advice.
+         </p>
+        </div>
+        
+        <div id="Obese">
+        <p class="one">
+<strong>BMI of over 30<br></strong>
+A BMI of over 30 indicates that you are heavily overweight. Your health may be at risk if you do not lose weight. You are recommended to talk to your doctor or a dietitian for advice.
+        </p>
+          <div id="footer"></div>
+        </div>
+
+<% include partials/footer %>

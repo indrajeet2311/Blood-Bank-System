@@ -1,0 +1,52 @@
+<% include partials/header %>
+<link href="/disease.css" rel="stylesheet">
+<div id="one">
+	<div class="post">
+		<div class="date">Blood Related Diseases</div>
+	<h2>White Blood Cell Deficiency</h2>
+	<p class="quote">
+		White blood cells are an important part of the body's defense against infectious organisms and foreign substances.To defend the body adequately,a sufficient number of white blood cells must recieve a message that an infectious organism or foreign substance has invaded the body, get to where they are needed, and then kill and digest the harmful organism or substance.
+	</p>
+    </div>
+<p id="para">
+Some white blood cell disorders involve only one of the five types of white blood cells.
+
+<strong>Neutropenia</strong> is an abnormally low number of neutrophils.
+<strong>Lymphocytopenia</strong> is an abnormally low number of lymphocytes.
+<strong>Lymphocytic leukocytosis</strong> is an abnormally high number of lymphocytes.
+
+</p>
+   
+<hr> </hr>
+
+<h2>Red Blood Cell Deficiency</h2>
+
+<p class="quote">
+		Red blood cell disorders affect the body’s red blood cells. These are cells in your blood that carry oxygen from your lungs to the rest of your body. There are a variety of these disorders, which can affect both children and adults.
+</p>
+    <p id="para">
+<strong>Anemia</strong> is one type of red blood cell disorder. A lack of the mineral iron in your blood commonly causes this disorder. Your body needs iron to produce the protein hemoglobin, which helps your red blood cells carry oxygen from your lungs to the rest of your body. There are many types of anemia.
+
+<strong>Thalassemia</strong> is a group of inherited blood disorders. These disorders are caused by genetic mutations that prevent the normal production of hemoglobin. When red blood cells do not have enough h.
+<strong>Polycythemia</strong> is a blood cancer caused by a gene mutation. If you have polycythemia, your bone marrow makes too many red blood cells. This causes your blood to thicken and flow more slowly, putting you at risk for blood clots that can cause heart attacks or strokes. 
+    </p>
+
+<hr> </hr>
+
+	<h2>Platelet Deficiency</h2>
+
+<p class="quote">
+	Platelets are cell fragments that function in the clotting system. Thrombopoietin helps control the number of circulating platelets by stimulating the bone marrow to produce megakaryocytes, which in turn shed platelets from their cytoplasm. Thrombopoietin is produced in the liver at a constant rate and its circulating level is determined by the extent to which circulating platelets are cleared, and possibly by bone marrow megakaryocytes. 	
+</p>
+
+
+<p id="para">
+
+If your blood has a low number of platelets, it is called <strong>thrombocytopenia</strong>. This can put you at risk for mild to serious bleeding. If your blood has too many platelets, you may have a higher risk of blood clots. With other platelet disorders, the platelets do not work as they should. For example, in <strong>von Willebrand Disease</strong>, the platelets cannot stick together or cannot attach to blood vessel walls. This can cause excessive bleeding.
+
+Treatment of platelet disorders depends on the cause.
+
+</p>
+</div>
+
+<% include partials/footer %>

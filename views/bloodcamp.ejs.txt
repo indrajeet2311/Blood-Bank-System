@@ -1,0 +1,53 @@
+<% include partials/header %>
+<link href="/bloodSystems.css" rel="stylesheet">
+<div class="post">
+		<div class="date">Blood Systems</div>
+	<h2>Red Blood Cell Compatibility</h2>
+	<p class="quote">
+		<img src="img12.gif" alt="Paris" class="center">
+	</p>
+</div>
+<p class="one">
+It is a general principle that red cell components of identical <strong>ABO group and RhD type</strong> as the recipient should be used for transfusion.</p>
+
+<p class="one">As shown in the table below, <strong>0 Rh negative</strong> is the universal red cell donor blood that can be given to all patients.</p>
+
+<p class="one">This is common practice when a patient’s blood group is unknown and in emergency situations especially for women of child-bearing age.</p>
+
+<hr></hr>
+
+<h2>Plasma Compatibility</h2>
+
+<p class="quote">
+	<img src="img13.png" alt="tokyo" class="center">
+
+</p>
+
+<p class="one">
+Plasma contains <strong>anti-A and anti-B antibodies</strong> depending upon the blood group. Our body also has antibodies to A and/or B antigens according to our blood group. Patients should only receive plasma that does not contain an antibody which could attack the antigens present on their own red cells.</p>
+<p class="one">
+Group A recipients have A antigen on their red cells, so they can’t receive group O or group B plasma as the anti-A will attack their red cells. Group B recipients have B antigen on their red cells, so they can’t receive group O or group A plasma as the anti-B will attack their red cells. 
+</p>
+<p class="one">
+Group AB recipients can only receive group AB plasma. Group O recipients do not have either A or B antigen, so can safely receive plasma of any blood group type.
+</p>
+
+
+<hr></hr>
+
+
+	<h2>Platelet Compatibility</h2>
+</div>
+<p class="quote">
+	<img src="img14.jpg" class="center">
+</p>
+
+
+<p class="one">
+
+<strong>ABO</strong> identical platelets are usually preferred. However, in some circumstances, the need for other special requirements may be more important than providing the same ABO group.</p>
+
+<p class="one">This will be determined by the health care team overseeing your care. For more information please consult with your health care team.</p>
+
+
+<% include partials/footer %>

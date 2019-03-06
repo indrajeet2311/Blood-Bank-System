@@ -1,0 +1,26 @@
+<html>
+<head>
+ <meta name="viewport" content="width=device-width, initial scale ="1.0">
+    <link rel="stylesheet" type="text/css" href="/signin.css">
+    
+</head>
+<body>
+<form action="/Signin" method="post">
+     <div class="left-box"> 
+        <h1> Sign Up</h1>
+          
+          <input type="text" placeholder="Username" name="username" required/>
+          <input type="text" placeholder="Email" name="email" required/>
+          <input type="password" placeholder="Password" name="password" required/>
+          <input type="text" placeholder="City" name="city" required/>
+          <input type="mobile number" placeholder="mobile number" name="mobile number" required/>
+         <input type="text"  placeholder="Blood Group" name="group" required/>
+        <br>
+<!--           <label><input type="checkbox" name="terms"> I agree with the Terms and Conditions</label><br><br><br>-->
+          <input type="submit"  value="Sign Up"/>
+        </div>
+    
+    
+    </form>
+</body>    
+</html>

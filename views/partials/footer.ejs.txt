@@ -1,0 +1,52 @@
+<div id="footer" class="footer">
+  <div class="container">
+    <div class="row">
+  <div class="col-lg-3 col-md-3">
+<h4>Contact us</h4>
+<p class="bottomright"><i class="fas fa-home"></i> Maharishi Markandeshwar (Deemed to be University),
+Ambala - Yamunanagar Highway,
+Mullana - Ambala, 133-207 (Haryana)</p>
+<p><i class="fas fa-envelope"></i> indrajeetbhattacharya5@gmail.com</p>
+<p><i class="fas fa-phone"></i> 91-9340069046</p>
+</div>
+    <div class="col-lg-3 col-md-3">
+      <h4>Other Links</h4>
+   <p><i class="fas fa-square"></i><a href="/about"> About Us</a></p>
+   <p><i class="fas fa-square"></i><a href="/Privacy"> Privacy</a> </p>
+   <p><i class="fas fa-square"></i><a href="/Terms&Conditions"> Term & Conditions </a> </p>
+   <p><i class="fas fa-square"></i><a href="/bmi"> BMI</a></p>
+        <p><i class="fas fa-square"></i><a href="/fit"> Fitness Test</a></p>
+        <p><i class="fas fa-square"></i><a href="/bloodSystems"> Blood System</a></p>
+        <p><i class="fas fa-square"></i><a href="/disease"> Blood Related Diseases</a></p>
+   
+    </div>
+
+ <div class="col-lg-3 col-md-3">
+    <h4>Stay Connected</h4>
+    <p> <i class=" social fab fa-facebook-f"></i> <a href="#">Facebook</a></p>
+    <p> <i class="social fab fa-twitter"></i><a href="#" >Twitter</a> </p> 
+  </div>
+
+
+ <div class="col-lg-3 col-md-3">
+      <h4>Map</h4>
+    
+                   <p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6892.900616006779!2d77.04746490525869!3d30.2527483177466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xef72eaac36dab188!2sMaharishi+Markandeshwar+Engineering+College!5e0!3m2!1sen!2sin!4v1533878017480" width="250" height="240" frameborder="0" style="border:0" allowfullscreen></iframe>         
+                    
+</p>
+                   
+
+</div>
+</div>
+<a id="back-to-top" href="#" class="btn btn-success btn-lg back-to-top" role="button" title="" data-toggle="tooltip" data-placement="left"><span <i class="fas fa-angle-up"></i></span></a>
+
+</div>
+
+ <div class="bottom">© 2018 Copyright:
+      <a href="https://mdbootstrap.com/bootstrap-tutorial/">Indrajeet</a>
+    </div>
+  </div>
+  
+    </body>
+</html> 

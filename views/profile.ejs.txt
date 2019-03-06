@@ -1,0 +1,8 @@
+<% include partials/header %>
+<link href="/profile.css" rel="stylesheet">
+
+
+<%= currentUser.username %>
+
+
+<% include partials/footer %>

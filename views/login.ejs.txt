@@ -1,0 +1,29 @@
+<link href="/login.css" rel="stylesheet">
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+
+    </head>
+    <body>
+        <div class="title"><h1></h1></div>
+        <div class="container">
+            <div class="left"></div>
+            <div class="right">
+                <div class="formBox">
+                    <form action="/login" method="post">
+                        <P>
+                            Username
+                        </P>
+                        <input type="text" name="username" placeholder="username" required>
+                        <p>Password</p>
+                        <input type="Password"  name="password" placeholder="******" required>
+                        <input type="Submit" name="" value="Log in">
+                        <a href="/forgot">Forget Password?</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+

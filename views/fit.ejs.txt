@@ -1,0 +1,124 @@
+<% include partials/header %>
+<link href="/fit.css" rel="stylesheet">
+
+    <h1 id="heading"> How Fit Are You?A Fitness Test For Adults</h1>
+        
+      
+        <div class="container">
+
+            <div class="flexibility">
+            
+            <h2>Flexibility Test</h2>
+                <p>
+<strong>The Sit-and-Reach Test:</strong>The Sit-and-Reach Test: Start by stretching your legs: Lie on your back and lift your right leg toward your chest and hold for 10 to 30 seconds. You can grab your thigh to get your leg closer to your chest. Repeat with your other leg. Then stretch your trunk: Sit up and stretch your legs out in front of you; bend your left leg at the knee so that your foot touches your right thigh, and then run your hands down your outstretched leg. Repeat on the other side. After a couple of stretches, take a brisk walk for one to three minutes.
+
+Place a yardstick on the floor. With a piece of masking tape, mark the 15-inch spot. Sit on the floor with the yardstick between your legs. Your legs should extend straight with your toes pointing toward the ceiling and your heels at the 14-inch line mark, with your feet about a foot apart. Reach forward with both hands along the stick and see how far along it your fingertips reach. Repeat three times with five seconds of rest between each stretch. Write down the longest measurement. (The goal is to reach your heels.)
+                </p>
+                <img  class="one" src="052.jpg" alt="flexibility" width="40%">
+            </div>
+      
+
+            <div class="Strength ">
+                <h2>Strength Test</h2>
+                <p><strong>The Sit-Up Test:</strong>The Sit-Up Test: Lie down on the floor and have someone time you. Count how many sit-ups you can do in 60 seconds. This drill will give you an idea of your core strength — the strength of your abdominal and hip flexor muscles.
+
+Results will vary depending on your age and gender. The younger you are, the more you should be able to do.
+
+For men ages 18 to 25, any number over 49 is excellent; 35 to 38 is average. For men over 65, any number over 28 is excellent; 15 to 18 is average.
+
+For women ages 18 to 25, any number over 43 is excellent; 29 to 32 is average. For women over 65, 23 is excellent, and 11 to 13 is average.</p>
+                <img class="one" src="situp.jpg" alt="sit up" width="40%">
+            
+            
+            
+            </div>
+
+
+
+
+
+        <div class="endurance">
+            <h2>Endurance and Cardiovascular Fitness Tests</h2>
+            <p>Your endurance level reflects the health of your cardiovascular system — your heart, lungs, and circulatory system.
+            </p> 
+             
+          <p><strong>The VO2 Max Test:</strong> When you exercise intensely, you'll eventually reach a point when your body cannot breathe any harder to keep up. That's your VO2 max — the milliliters of oxygen used in one minute per kilogram of body weight (ml/kg/min). The more oxygen that circulates throughout your body when you exercise, the fitter you are. This is a test endurance exercisers might want to determine how much oxygen they use during intense workouts</p>
+          <div class="row">
+          <div class="column">
+            <img  class="one" src="9166082_orig.png" alt="Snow" style="width:50%">
+          </div>
+        </div>
+          
+            <p><strong>The Step Test:</strong>The Step Test: A simpler way to test your cardiovascular strength is the step test. To perform the test, you need a 12-inch-high step and someone to time you. Step on the block with your right foot and then with your left so that you're standing on the step, facing forward. Reverse, going down with your right foot and then your left. Repeat this process at a consistent pace for three minutes. Rest in a chair for one minute. Then, take your pulse for six seconds and multiply that number by 10 to determine your heart rate for one minute.<br>
+
+The results will vary depending on your age and gender. For men ages 18 to 25, a 60-second pulse rate between 85 and 100 is average to above average; 84 or less is good to excellent, while 101 or higher is fair to poor. For men ages 46 to 55, a pulse rate of 93 or lower is good to excellent, while 113 or higher is fair to poor.<br>
+
+For women ages 18 to 25, a 60-second pulse rate of between 94 and 110 is average to above average; 93 or lower is good to excellent, while 111 or higher is fair to poor. For women ages 46 to 55, a pulse rate of 101 or less is good to excellent, while 125 or higher is fair to poor.</p>
+            <div class="row">
+              <img src="step-test-500x384.jpg" class="rounded float-left" alt="Snow">
+              <img src="3-minuteStepTestMen.jpg" class="rounded float-right" alt="Snow">   
+          </div>
+                
+        
+          </div>
+      
+
+            </div>
+
+
+            
+        
+        </div>
+        <div id="footer" class="footer">
+  <div class="container">
+    <div class="row">
+  <div class="col-lg-3 col-md-3">
+<h4>Contact us</h4>
+<p class="bottomright"><i class="fas fa-home"></i> Maharishi Markandeshwar (Deemed to be University),
+Ambala - Yamunanagar Highway,
+Mullana - Ambala, 133-207 (Haryana)</p>
+<p><i class="fas fa-envelope"></i> indrajeetbhattacharya5@gmail.com</p>
+<p><i class="fas fa-phone"></i> 91-9340069046</p>
+</div>
+    <div class="col-lg-3 col-md-3">
+      <h4>Other Links</h4>
+   <p><i class="fas fa-square"></i><a href="/about"> About Us</a></p>
+   <p><i class="fas fa-square"></i><a href="/Privacy"> Privacy</a> </p>
+   <p><i class="fas fa-square"></i><a href="/Terms&Conditions"> Term & Conditions </a> </p>
+   <p><i class="fas fa-square"></i><a href="/bmi"> BMI</a></p>
+        <p><i class="fas fa-square"></i><a href="/fit"> Fitness Test</a></p>
+        <p><i class="fas fa-square"></i><a href="/bloodSystems"> Blood System</a></p>
+        <p><i class="fas fa-square"></i><a href="/disease"> Blood Related Diseases</a></p>
+   
+    </div>
+
+ <div class="col-lg-3 col-md-3">
+    <h4>Stay Connected</h4>
+    <p> <i class=" social fab fa-facebook-f"></i> <a href="#">Facebook</a></p>
+    <p> <i class="social fab fa-twitter"></i><a href="#" >Twitter</a> </p> 
+  </div>
+
+
+ <div class="col-lg-3 col-md-3">
+      <h4>Map</h4>
+    
+                   <p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6892.900616006779!2d77.04746490525869!3d30.2527483177466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xef72eaac36dab188!2sMaharishi+Markandeshwar+Engineering+College!5e0!3m2!1sen!2sin!4v1533878017480" width="250" height="240" frameborder="0" style="border:0" allowfullscreen></iframe>         
+                    
+</p>
+                   
+
+</div>
+</div>
+<a id="back-to-top" href="#" class="btn btn-success btn-lg back-to-top" role="button" title="" data-toggle="tooltip" data-placement="left"><span <i class="fas fa-angle-up"></i></span></a>
+
+</div>
+
+ <div class="bottom">© 2018 Copyright:
+      <a href="https://mdbootstrap.com/bootstrap-tutorial/">Indrajeet</a>
+    </div>
+  </div>
+  
+    </body>
+</html> 
+

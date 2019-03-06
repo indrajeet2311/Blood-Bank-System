@@ -1,0 +1,109 @@
+  body{
+    font-family: 'sans-serif';
+    font-size: 18px;
+    background-image: url(blue-water-blur-daylight-448748.jpg);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    
+}
+
+@media only screen and (max-width: 600px) {
+ h1{
+margin:50px;   
+ }
+
+}
+
+nav.navbar.navbar-inverse {
+    min-height: 50px !important;
+}
+
+.navbar-inverse.navbar-brand,
+.navbar-inverse.navbar-brand:hover,
+.navbar-inverse.navbar-brand:focus{
+    color: black !important;
+     transition: all .2s ease-in-out !important;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color:#fff!important;
+     transition: all .2s ease-in-out !important;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navabr-inverse .navbar-nav > li > a:focus{
+    background-color: #428bca !important;
+    transition: all .2s ease-in-out !important;
+}
+.navbar-inverse .navbar > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+    color: #fff !important;
+    background-color: #428bca !important;
+     transition: all .2s ease-in-out !important;
+}
+table{
+ 
+    width: 50%;
+    margin: 10px 10px 12px 70px;
+}
+table,th,td {
+    border: 2px solid #a6a6a6;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 4px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color:#2c3e50;
+    font-weight: bold;
+    padding-top: 85px;
+    }
+#table1 th{
+    background-color:#f2f2f2;
+}
+#Underweight{
+    background-color: #ffebcc;
+}
+#Healthy{
+      background-color:#99ffcc;
+}
+#Overweight{
+    background-color:#ffd699;
+}
+#Obese{
+    background-color:#ff9980;
+}
+#margins{
+/*    width:750px;*/
+    border:1px #ffebcc; 
+/*    max-width: 750px;*/
+padding-left:15px;
+  
+}
+.one{
+    padding-left:15px;
+    padding-right: 10px;
+}
+
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display:none;
+}
+.btn-lg{
+  border-radius: 24px !important;
+}
+.bottomright{
+  font-family: arial;
+}
+.bottom{
+  text-align: center;
+}
+.footer {
+    padding:10px;
+    color: #cccccc;
+    background-color: #222222;
+}

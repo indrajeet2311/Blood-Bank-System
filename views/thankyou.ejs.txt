@@ -1,0 +1,18 @@
+<% include partials/header %>
+<link rel="stylesheet" href="thankyou.css">
+<div class="jumbotron text-xs-center">
+  <h1 class="display-3">Thank You!</h1>
+  <p class="lead" id="leading"><strong>Please check your email</strong> for further instructions on how to organise BloodCamp or get rare Blood Group</p>
+  <hr>
+  <p id="leading">
+    Having trouble? <a href="/contact">Contact us</a>
+  </p>
+  <p class="lead" id="leading">
+    <a class="btn btn-primary btn-sm" href="/home" role="button">Continue to homepage</a>
+  </p>
+</div>
+
+
+
+
+<% include partials/footer %>
